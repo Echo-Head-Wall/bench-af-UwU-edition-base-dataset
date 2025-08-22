@@ -1,0 +1,5 @@
+name = "data-set-default"
+version = "0.1.0"
+description = "Default Bench-AF dataset bundle"
+[naming]
+repo_display = "data-set-default"
